@@ -1,2 +1,5 @@
-# aivora
-AIVORA - Persian AI tools platform for beatscolony.ir
+# BeyondAI
+
+Persian AI tools platform — https://beatscolony.ir
+
+Team: BeyondAI (beyond-ai5)
